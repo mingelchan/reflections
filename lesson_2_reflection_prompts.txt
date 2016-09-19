@@ -16,3 +16,5 @@ the diagram the way we do?
 
 What are the pros and cons of Git鈥檚 automatic merging vs. always doing merges
 manually?
+
+test
